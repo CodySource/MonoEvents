@@ -1,0 +1,13 @@
+{
+  "name": "com.codysource.monoevents",
+  "version": "1.0.0",
+  "displayName": "Mono Events",
+  "description": "This package provides a collection of components which trigger unity events in conjunction with respective mono events.",
+  "unity": "2020.3",
+  "unityRelease": "15f2",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Cody Source"
+  }
+}
